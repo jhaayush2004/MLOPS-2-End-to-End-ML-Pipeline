@@ -3,3 +3,4 @@ scikit-learn
 PyYAML
 nltk
 dvc
+dvclive
